@@ -14,6 +14,6 @@
 const answers = [];
 answers[0] = prompt('Name1', '');
 answers[1] = prompt('SurName1', '');
-answers[2] = prompt('Age', '');
+answers[2] = prompt('Age23', '');
 
 document.write(answers);
