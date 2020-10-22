@@ -13,7 +13,7 @@
 // console.log(typeof(answer));
 const answers = [];
 answers[0] = prompt('Name1', '');
-answers[1] = prompt('SurName', '');
+answers[1] = prompt('SurName1', '');
 answers[2] = prompt('Age', '');
 
 document.write(answers);
