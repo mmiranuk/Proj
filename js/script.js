@@ -12,7 +12,7 @@
 // const answer = prompt('18?', "18");
 // console.log(typeof(answer));
 const answers = [];
-answers[0] = prompt('Name1', '');
+answers[0] = prompt('Name11', '');
 answers[1] = prompt('SurName1', '');
 answers[2] = prompt('Age23', '');
 
